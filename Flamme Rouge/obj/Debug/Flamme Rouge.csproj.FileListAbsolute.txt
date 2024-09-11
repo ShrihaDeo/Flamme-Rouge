@@ -1,0 +1,22 @@
+C:\Users\shrih\Desktop\COMPX102-23B\Assignment 2\Flamme Rouge\Flamme Rouge\bin\Debug\Flamme Rouge.exe.config
+C:\Users\shrih\Desktop\COMPX102-23B\Assignment 2\Flamme Rouge\Flamme Rouge\bin\Debug\Flamme Rouge.exe
+C:\Users\shrih\Desktop\COMPX102-23B\Assignment 2\Flamme Rouge\Flamme Rouge\bin\Debug\Flamme Rouge.pdb
+C:\Users\shrih\Desktop\COMPX102-23B\Assignment 2\Flamme Rouge\Flamme Rouge\obj\Debug\Flamme Rouge.csproj.AssemblyReference.cache
+C:\Users\shrih\Desktop\COMPX102-23B\Assignment 2\Flamme Rouge\Flamme Rouge\obj\Debug\Flamme Rouge.csproj.SuggestedBindingRedirects.cache
+C:\Users\shrih\Desktop\COMPX102-23B\Assignment 2\Flamme Rouge\Flamme Rouge\obj\Debug\Flamme_Rouge.Form1.resources
+C:\Users\shrih\Desktop\COMPX102-23B\Assignment 2\Flamme Rouge\Flamme Rouge\obj\Debug\Flamme_Rouge.Properties.Resources.resources
+C:\Users\shrih\Desktop\COMPX102-23B\Assignment 2\Flamme Rouge\Flamme Rouge\obj\Debug\Flamme Rouge.csproj.GenerateResource.cache
+C:\Users\shrih\Desktop\COMPX102-23B\Assignment 2\Flamme Rouge\Flamme Rouge\obj\Debug\Flamme Rouge.csproj.CoreCompileInputs.cache
+C:\Users\shrih\Desktop\COMPX102-23B\Assignment 2\Flamme Rouge\Flamme Rouge\obj\Debug\Flamme Rouge.exe
+C:\Users\shrih\Desktop\COMPX102-23B\Assignment 2\Flamme Rouge\Flamme Rouge\obj\Debug\Flamme Rouge.pdb
+C:\Users\shrih\Desktop\Year 1 SE\COMPX102-23B\Assignment 2\Flamme Rouge- final\Flamme Rouge\Flamme Rouge\bin\Debug\Flamme Rouge.exe.config
+C:\Users\shrih\Desktop\Year 1 SE\COMPX102-23B\Assignment 2\Flamme Rouge- final\Flamme Rouge\Flamme Rouge\bin\Debug\Flamme Rouge.exe
+C:\Users\shrih\Desktop\Year 1 SE\COMPX102-23B\Assignment 2\Flamme Rouge- final\Flamme Rouge\Flamme Rouge\bin\Debug\Flamme Rouge.pdb
+C:\Users\shrih\Desktop\Year 1 SE\COMPX102-23B\Assignment 2\Flamme Rouge- final\Flamme Rouge\Flamme Rouge\obj\Debug\Flamme Rouge.csproj.AssemblyReference.cache
+C:\Users\shrih\Desktop\Year 1 SE\COMPX102-23B\Assignment 2\Flamme Rouge- final\Flamme Rouge\Flamme Rouge\obj\Debug\Flamme Rouge.csproj.SuggestedBindingRedirects.cache
+C:\Users\shrih\Desktop\Year 1 SE\COMPX102-23B\Assignment 2\Flamme Rouge- final\Flamme Rouge\Flamme Rouge\obj\Debug\Flamme_Rouge.Form1.resources
+C:\Users\shrih\Desktop\Year 1 SE\COMPX102-23B\Assignment 2\Flamme Rouge- final\Flamme Rouge\Flamme Rouge\obj\Debug\Flamme_Rouge.Properties.Resources.resources
+C:\Users\shrih\Desktop\Year 1 SE\COMPX102-23B\Assignment 2\Flamme Rouge- final\Flamme Rouge\Flamme Rouge\obj\Debug\Flamme Rouge.csproj.GenerateResource.cache
+C:\Users\shrih\Desktop\Year 1 SE\COMPX102-23B\Assignment 2\Flamme Rouge- final\Flamme Rouge\Flamme Rouge\obj\Debug\Flamme Rouge.csproj.CoreCompileInputs.cache
+C:\Users\shrih\Desktop\Year 1 SE\COMPX102-23B\Assignment 2\Flamme Rouge- final\Flamme Rouge\Flamme Rouge\obj\Debug\Flamme Rouge.exe
+C:\Users\shrih\Desktop\Year 1 SE\COMPX102-23B\Assignment 2\Flamme Rouge- final\Flamme Rouge\Flamme Rouge\obj\Debug\Flamme Rouge.pdb
